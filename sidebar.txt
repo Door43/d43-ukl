@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ukl:home|Door43 (ukl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ukl|d43-ukl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ukl/archive/master.zip|d43-ukl.zip]]
+
+**Recent Changes**
+{{changes>ns = ukl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ukl|Ethnologue data]]
+
